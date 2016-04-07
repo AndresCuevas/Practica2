@@ -1,4 +1,4 @@
-package Calculadora
+package Calculadora;
 
 public class Calculadora {
 	private int Num1;
